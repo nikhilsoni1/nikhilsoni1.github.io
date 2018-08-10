@@ -2,4 +2,3 @@ theme: jekyll-theme-cayman
 title: NIKHIL SONI
 description: Graduate Student, School of Industrial Engineering \n Purdue University
 google_analytics: UA-123727784-1
-gem "github-pages", group: :jekyll_plugins
