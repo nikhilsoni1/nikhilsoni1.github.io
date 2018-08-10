@@ -1,1 +1,3 @@
-## Soni 789
+# Nikhil Soni
+Masters in Industrial Engineering
+Purdue Univeristy
