@@ -1,6 +1,16 @@
-title: [NIKHIL SONI]
-description: [Graduate Student, School of Industrial Engineering]
+#   About Me
+---
+I am a seasoned Python developer with a superior knack of
+applying computational algorithms in the realm of operations
+research.
 
-# Nikhil Soni
-Masters in Industrial Engineering
-Purdue Univeristy
+---
+#   Work Experience
+
+**Manufacturing Engineering Intern** \| [BRP Inc.](https://www.evinrude.com/)
+
+    
+---
+
+
+
