@@ -4,11 +4,11 @@
 I develop decision making tools using computational and machine learning techniques
 in the domain of production, manufacturing and supply chain.
 
-My focus is on developing open-source tools, using R, Python, VBA etc.,for real-time
-material flow optimisations, dynamic scheduling and resource/asset allocations.
-Because of the open-source nature of the tools, they can be tailored to the exact
+My focus is on developing scalable production ready tools, using R, Python, VBA etc.,for real-time
+material flow optimisations, dynamic scheduling and optimum resource/asset allocations.
+Because of the scalable nature of the tools, they can be tailored to the exact
 work requirements. Thus, building a set of statistically sound metrics, which aid
-management and leader ship in prudent decision making.
+management and leadership in prudent decision making.
 
 ---
 #   Work Experience
@@ -22,6 +22,7 @@ management and leader ship in prudent decision making.
 -   Decision making tools development
 -   Discrete Event Simulation (Manufacturing Simulations)
 -   Material flow optimizations
+-   Cross-functional collaboration
 -   KPI Development
 -   Dashboarding
 
@@ -45,22 +46,22 @@ management and leader ship in prudent decision making.
 -   Website parsing
 -   Extraction, transfer and load
 
-[**Continuous Improvement Intern**]()
+[**Continuous Improvement Intern**]() \| May '13 - July '13 \| [Tata Motors](https://www.tatamotors.com/blog/tag/jamshedpur-plant/)
 
 *Key skills from this experience:*
 
 -   Kanban Implementation
 -   Learn the implementation of the following algorithms
-    -   M.O.S.T
+    -   Maynard Operation Sequence Technique (M.O.S.T)
     -   Rank ordering clustering algorithm
-    -   ALDEP
-    -   CORELAP
-    -   CRAFT
+    -   Automated Layout Development Program (ALDEP)
+    -   Computerized Relationship Layout Planning (CORELAP)
+    -   Computerized Relative Allocation of Facilities Technique (CRAFT)
 -   5S Methodology 
 
 #   Research experience and projects
 
-[**Air quality prediction**](content/air_quality_prediction/air_quality_prediction.md) \| [Report](https://github.com/nikhilsoni1/Air-Quality-Prediction/raw/master/Report_Results.pdf)
+[**Air Quality Prediction**](content/air_quality_prediction/air_quality_prediction.md) \| [Report](https://github.com/nikhilsoni1/Air-Quality-Prediction/raw/master/Report_Results.pdf)
 
 *Key skills:*
 
