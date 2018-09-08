@@ -46,7 +46,7 @@ management and leadership in prudent decision making.
 -   Website parsing
 -   Extraction, transfer and load
 
-[**Continuous Improvement Intern**]() \| 
+[**Continuous Improvement Intern**]() \| May '13 - July '13 \| [Tata Motors](https://www.tatamotors.com/blog/tag/jamshedpur-plant/)
 
 *Key skills from this experience:*
 
