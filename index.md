@@ -59,6 +59,8 @@ management and leadership in prudent decision making.
     -   Computerized Relative Allocation of Facilities Technique (CRAFT)
 -   5S Methodology 
 
+----
+
 #   Research experience and projects
 
 [**Air Quality Prediction**](content/air_quality_prediction/air_quality_prediction.md) \| [Report](https://github.com/nikhilsoni1/Air-Quality-Prediction/raw/master/Report_Results.pdf)
